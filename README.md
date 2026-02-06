@@ -24,7 +24,7 @@ From the Visual Studio Code, install the browser extension and run
 ### Home Page
 ![Homepage](HomePage.png)
 ### Winning Screen
-![Winning Screen](WinningScreen.png)
+![Winning Screen](Winning Screen.png)
 ### Losing Screen
-![Losing Screen](LosingScreen.png)
+![Losing Screen](Losing Screen.png)
 
