@@ -22,8 +22,8 @@ To execute this project,
 From the Visual Studio Code, install the browser extension and run
 ## Screenshots
 ### Home Page
-![Homepage](homepage.png)
+![Homepage](ProjectScreenshots/HomePage.png)
 ### Winning Screen
-![Winningscreen](winningscreen.png)
+![Winningscreen](ProjectScreenshots/WinningScreen.png)
 ### Losing Screen
-![Losingscreen](losingscreen.png)
+![Losingscreen](ProjectScreenshots/LosingScreen.png)
