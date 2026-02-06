@@ -30,5 +30,5 @@ From the Visual Studio Code, install the browser extension and run
 ### Losing Screen
 ![Losing Screen](Losing%20Screen.png)
 
-![Losing Screen](LosingScreen.png)
+
 
