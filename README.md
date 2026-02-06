@@ -23,6 +23,10 @@ From the Visual Studio Code, install the browser extension and run
 ## Screenshots
 ### Home Page
 ![Homepage](HomePage.png)
-![Winning Screen](WinningScreen.png)
+### Winning Screen
+![Winning Screen](Winning%20Screen.png)
+### Losing Screen
+![Losing Screen](Losing%20Screen.png)
+
 ![Losing Screen](LosingScreen.png)
 
