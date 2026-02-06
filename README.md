@@ -27,3 +27,4 @@ From the Visual Studio Code, install the browser extension and run
 ![Winning Screen](WinningScreen.png)
 ### Losing Screen
 ![Losing Screen](LosingScreen.png)
+
