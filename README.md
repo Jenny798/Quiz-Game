@@ -20,3 +20,10 @@ Project starts its execution from index.html page. All the validations are given
 
 To execute this project,
 From the Visual Studio Code, install the browser extension and run
+## Screenshots
+### Home Page
+![Homepage](projectscreenshots/homepage.png)
+### Winning Screen
+![Winningscreen](projectscreenshots/winningscreen.png)
+### Losing Screen
+![Losingscreen](projectscreenshots/losingscreen.png)
