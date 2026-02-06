@@ -23,6 +23,8 @@ From the Visual Studio Code, install the browser extension and run
 ## Screenshots
 ### Home Page
 ![Homepage](HomePage.png)
+### Question Interface
+![Question Interface](Question%20Interface.png)
 ### Winning Screen
 ![Winning Screen](Winning%20Screen.png)
 ### Losing Screen
